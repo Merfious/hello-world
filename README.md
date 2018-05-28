@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi Humans!
+
+Ricardo here, I am the bone of the sword!
